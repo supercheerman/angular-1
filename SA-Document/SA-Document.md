@@ -256,7 +256,7 @@
 <p><strong>Operating process</strong></p>
 <p>The operation of angular is to implement a set of environments in JavaScript context, called angular context, and the non-angular environment is called classic context.</p>
 <p>There is also a queue in the angular context, which contains the watch list, which contains the monitored variables, including those that bind to the data (that is, those that bind to the view). If the user changes a view that binds the data, then an angular function, $apply, is triggered (that is, putting the event queue in the event queue, and then triggering it when the training turns to this), and then updating the value of the change to the bound variable, and then starting to call a digest function, which is used to rotate the watch list to see the column. Table refers to whether or not to change, if there are changes to rewrite the corresponding DOM (do not need angular to write this part of the code, if you have 100 variables, you have to write 100 such changes, and if there are any changes in the future, you have to reconstruct it yourself).</p>
-![image]("https://github.com/supercheerman/angular-1/tree/master/mypicture/4.png")
+![Image text]("https://github.com/supercheerman/angular-1/tree/master/mypicture/4.png")
 <h2>References</h2>
 <p>[1]Wikipedia. Stakeholder (corporate)[EB/OL］.Stakeholder (corporate) - Wikipedia，<a href="http://wikipedia.moesalih.com/Stakeholder_(corporate)">http://wikipedia.moesalih.com/Stakeholder_(corporate)</a></p>
 <p><a href="https://www.imooc.com/article/29750">https://www.imooc.com/article/29750</a></p>
