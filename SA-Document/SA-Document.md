@@ -27,7 +27,7 @@
 <p>&nbsp;</p>
 <ol>
 <li>Competitors</li>
-</ol>
+</ol> 
 <p>Angular is of course not the only platform that provides front-end functionalities. When Angular was initially created, products with the same function already exist on the market, but they have their own advantages and disadvantages. The following is a list of competitors that provide in some way the same functionalities that Angular provides.</p>
 <p>&nbsp;</p>
 <ul>
